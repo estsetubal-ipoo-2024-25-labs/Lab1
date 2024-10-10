@@ -8,7 +8,7 @@ Recomenda-se que elabore cada algoritmo como uma _função_ independente, atrav�
 
 Para alternar entre a execução de exercícios diferentes, adicione apenas um bloco `Call` no algoritmo `Main`, invocando o algoritmo respetivo, e.g.:
 
-![](main.png)
+![](Main.png)
 
 Sempre que necessitar de mudar de algoritmo para execução, altere a função invocada neste bloco.
 
